@@ -1,0 +1,22 @@
+id: A2C8FA76E
+title: Daily Lungta Recitation
+type: translation
+pechas:
+- IDEA1E1E5
+- I4103979F
+- I7C958CB5
+source_metadata:
+  languages:
+  - en
+  - fr
+  - bo
+  datatype: PlainText
+  created_at: 2023-01-04 13:09:24.044003
+  last_modified_at: 2023-01-04 13:09:24.044013
+  collections:
+  - Mipham Rinpoche Series
+  - Works of Tibetan Masters
+alignment_to_base:
+  IDEA1E1E5/652A: D65F
+  I4103979F/4548: D65F
+  I7C958CB5/D1BD: D65F
